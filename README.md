@@ -12,7 +12,7 @@ Why learn programming?
 
 1. Participate in the construction of all industries and professions, servering the social, making money and gettting jobs. Programming is a skill. In the process of informatization and scientization, all industries and professions may need computers. If one need computers, one may need programming.
 
-2. Connect with relevant studies and technologies, promoting the interdisciplinarity, improving the scientific and technical content of a domain.
+2. Connect with relevant studies and technologies, promoting the interdisciplinarity, improving the scientific and technical ratio of a domain.
 
 3. Expand your life circle, meet different people, and enrich your social lifetime and interpersonal communication experience.
 
